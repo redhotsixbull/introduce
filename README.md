@@ -30,8 +30,9 @@ Plus_minus_zero - 개인 프로젝트로 사람초점관련한 장부어플(현�
 네이티브 안드로이드앱으로 초창기 공부와 병행하기위해 하였던 프로젝트 초창기 SQLite와 listview등 기본적인 위젯등 활용하여 엑티비티내에서만 구현하였지만 현재는
 OrmLite, Room ,SMSreceiver, recyclerview 등 활용 MVVM구조로 작업 리모델링 함 현재 80%완성
 
+
 TestApp
--> 내부Html, 외부 web을 webview로가져와 Javascript로 Hybrid app의 샘플 코드 구현, 단순한 공부용도였으며 현재 아이디어가 나지 않아 관련앱 개발중인건 없음...
+-> 내부Html, 외부 web을 webview로가져와 Javascript로 Hybrid app의 샘플 코드 구현, 단순한 공부용도였으며 현재 아이디어가 나지 않아 관련앱 개발중인건 없음...참고만 바랍니다^^
 
 ## 포함된 내용
 - 간단한 소개
