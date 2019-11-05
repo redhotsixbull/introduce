@@ -1,6 +1,6 @@
 # 안드로이드 개발자 이력서
 
-- [바로가기](https://github.com/kimd9ngjoo/introduce)
+- [바로가기](https://github.com/redhotsixbull/introduce)
 
 ## Skills
 - hybrid, native, webapp
@@ -15,13 +15,13 @@
 
 ## 프로젝트 링크
 SpringFrameWork 
--> WeddingProject-[바로가기](https://github.com/kimd9ngjoo/wedding)
+-> WeddingProject-[바로가기](https://github.com/redhotsixbull/wedding)
 
 NativeApp
--> Plus_minus_zero-[바로가기](https://github.com/kimd9ngjoo/selfintroduce)
+-> Plus_minus_zero-[바로가기](https://github.com/redhotsixbull/selfintroduce)
 
 HybridApp
--> TestApp-[바로가기](https://github.com/kimd9ngjoo/HybridAppStudy)
+-> TestApp-[바로가기](https://github.com/redhotsixbull/HybridAppStudy)
 
 ## 프로젝트 설명
 WeddingProject - 5인에서한 프로젝트였으며 결혼과 관련하여 준비해야할 사항들 스튜디오 드레스 메이크업 홀에관한 올인원 사이트 관련 세부내용 첨부 PPT참조 메이븐을 이용하였으며 Email 과 카카오 등 다양한 라이브러리를 활용 
