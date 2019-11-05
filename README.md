@@ -14,6 +14,9 @@
 - eclipse
 
 ## 프로젝트 링크
+WebProject
+-> HappyDog-[바로가기](https://github.com/redhotsixbull/happyDog)
+
 SpringFrameWork 
 -> WeddingProject-[바로가기](https://github.com/redhotsixbull/wedding)
 
@@ -24,6 +27,8 @@ HybridApp
 -> TestApp-[바로가기](https://github.com/redhotsixbull/HybridAppStudy)
 
 ## 프로젝트 설명
+HappyDog - 5인에서 한프로젝트입니다. 스프링을 배우기전 Servlet을 직접구현하여 만든 웹입니다. 유기동물과관련하여 입양 장려 하는 홈페이집니다. 유기동물 관련 공공API를 가져옵니다.
+
 WeddingProject - 5인에서한 프로젝트였으며 결혼과 관련하여 준비해야할 사항들 스튜디오 드레스 메이크업 홀에관한 올인원 사이트 관련 세부내용 첨부 PPT참조 메이븐을 이용하였으며 Email 과 카카오 등 다양한 라이브러리를 활용 
 
 Plus_minus_zero - 개인 프로젝트로 사람초점관련한 장부어플(현재 개발진행형)
