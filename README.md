@@ -12,7 +12,7 @@
 - Eclipse
 - Git
 
-## Project
+## Project▽
 
 # Plus_Minus_Zero
 - Android와 Java를 처음공부하면서 하였던 개인프로젝트입니다. 사실 처음 언어만익히고 바로 시도해본 프로젝트였으며 내부 코드나 구조가 좋진 않습니다. 사람 초점에 관련한 장부 어플로 기획하였으며 순수 Native 어플리케이션입니다. 공부를 겸하며 여러가지를 시도하였던 어플리케이션이고 SQLite와 ListView등 기본적인 위젯을 사용하여 액태비티를 만들어 데이터를 화면간 , 내부DB에 주고받았습니다. 이후 SQLite=> ORMlite => Room 변경을 통해 개선하였으며 결제이후 오게될 문자메시지를 파싱하기위해 SMSreceiver를 활용하였고 ListView를 recyclerive로 변경하고 LiveData를 활용한 MVVM구조로 리모델링하였습니다. SPALSH화면 만든 프로젝트입니다.
