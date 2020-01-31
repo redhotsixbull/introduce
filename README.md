@@ -32,15 +32,12 @@
 
 ---
 이전 프로젝트(참고만 하세요)
-
+학원에서 했었던 프로젝트및 개인적인 공부하면서 있엇던앱입니다. Kotlin을 공부하거나 Hybrid기능 구현 등등. 참고정도만 해보시면 될 듯 합니다. 
 WebProject
 -> HappyDog-[바로가기](https://github.com/redhotsixbull/happyDog)
 
 SpringFrameWork 
 -> WeddingProject-[바로가기](https://github.com/redhotsixbull/wedding)
-
-NativeApp
--> Plus_minus_zero-[바로가기](https://github.com/redhotsixbull/selfintroduce)
 
 HybridApp
 -> TestApp-[바로가기](https://github.com/redhotsixbull/HybridAppStudy)
