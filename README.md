@@ -25,8 +25,8 @@
 
 # Banggood
 - 스타트업에서 진행했엇던 프로젝트입니다. 부동산 관리 이고 Node.js-> TypeScript-> Angular 를 통한 웹페이지를 만들었습니다. 저는 DashBoard를 만들었습니다. 부동산을 관리하기위해 임차 , 임대, 전차, 소유주의 관계를 분석하여 관리비를 청구하거나 공지사항 알람등이 있습니다. MariaDB와 AWS에서 JENKINS을 통해 배포되었던 서비스입니다. 현재도 서비스 준비중 퇴사하였습니다. 민원창구, 입등록 , 계좌관리 , 조회 등 페이지를 만들었습니다.
-
-
+-ADMIN SOURCE [바로가기](https://github.com/redhotsixbull/Admin) 
+-API SOURCE [바로가기](https://github.com/redhotsixbull/SpringAPI)
 
 
 
