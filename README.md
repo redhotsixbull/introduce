@@ -1,10 +1,9 @@
 ## 프론트 엔드를 꿈꾸는 개발자
 
-- [바로가기](https://github.com/redhotsixbull/introduce)
 
 ## Skills
 - JS,TS,JQuery,Dart, Java
-- Spring ,Node.js
+- Spring ,Node.js, Flutter
 - hybrid, NativeAndroid, Angular
 - Oracle, MySql
 ## 사용한 Tool 
