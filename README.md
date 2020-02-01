@@ -3,7 +3,7 @@
 
 ## Skills
 - JS,TS,JQuery,Dart, Java
-- Spring ,Node.js, Flutter
+- Spring ,Node.js, Flutter, RN
 - hybrid, NativeAndroid, Angular
 - Oracle, MySql
 ## 사용한 Tool 
