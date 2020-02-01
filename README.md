@@ -28,7 +28,10 @@
 -ADMIN SOURCE [바로가기](https://github.com/redhotsixbull/Admin)   
 -API SOURCE [바로가기](https://github.com/redhotsixbull/SpringAPI)
 
+# WONJU BIG TRAHSH
+- 원주시 대형폐기물과 관련하여 진행한 프로젝트입니다. 결제사 대행서비스를 연결하고 필요한 화면을 보여줍니다. 대형폐기물의 처리 절차를 간소화 하는 앱입니다.
 
+*비공개 프로젝트입니다 필요시 면접때 보여드리겠습니다.
 
 ---
 이전 프로젝트(참고만 하세요)
