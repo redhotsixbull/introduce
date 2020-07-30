@@ -13,15 +13,15 @@
 
 ## 자기소개
  - flutter 개발자 김동주입니다. BLoc Pattern Provider pattern을독학으로익혔습니다. 대부분 플러터 프로젝트를 혼자 진행하였기에 디자인패턴 설계도 직접하였습니다. 
-[바로가기](https://github.com/redhotsixbull/RedHotProvider)
-[바로가기](https://github.com/redhotsixbull/RedHotBloc)
-상단의 두링크는 제가 기본세팅을 해놓은 디자인 패턴을 구현하기위해 만들어놓은 Basic Repository 입니다.
+ - [BLOC PATTERN SAMPLE](https://github.com/redhotsixbull/RedHotBloc)
+ - [PROVIDER PATTERN SAMPLE](https://github.com/redhotsixbull/RedHotProvider)
+ - 상단의 두링크는 제가 기본세팅을 해놓은 디자인 패턴을 구현하기위해 만들어놓은 Basic Repository 입니다.
 
-공부하는것을 좋아하여 프로그래머스에서 문제를 풀어보기도합니다. 현재는 리액트 관련하여 공부해보고있습니다. 이후 UI/UX 디자인 관련하여 공부를 해볼 계획중에 있습니다. 
+ - 공부하는것을 좋아하여 프로그래머스에서 문제를 풀어보기도합니다. 현재는 리액트 관련하여 공부해보고있습니다. 이후 UI/UX 디자인 관련하여 공부를 해볼 계획중에 있습니다. 
 
-Spring, Spring Boot를 할수 있으며 NativeAndroid 도 가능합니다. 기본적인 SQL쿼리 다룰수 있습니다.
+ - Spring, Spring Boot를 할수 있으며 NativeAndroid 도 가능합니다. 기본적인 SQL쿼리 다룰수 있습니다.
 
-Git 을 사용하여 협업 가능합니다. 단순히 코드 머지가아닌 PR과 리뷰. 및 CI/CD FLutter 환경 설정 경험 있습니다.
+- Git 을 사용하여 협업 가능합니다. 단순히 코드 머지가아닌 PR과 리뷰. 및 CI/CD FLutter 환경 설정 경험 있습니다.
 
 현재 진행중인 프로젝트 대부분 회사에서 진행중이기에 공개 불가합니다. 면접때 공개가능한 부분에 대해 설명 드리겠습니다. 
 감사합니다.
